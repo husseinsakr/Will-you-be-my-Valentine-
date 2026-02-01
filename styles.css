@@ -322,6 +322,15 @@ body {
     width: 90%;
   }
 
+  .one {
+    font-size: 2.5rem;
+  }
+
+  .one h1 {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
   .four .text-box {
     width: 90%;
   }
