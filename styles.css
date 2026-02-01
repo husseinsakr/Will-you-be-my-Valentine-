@@ -41,7 +41,13 @@ body {
 
 /* Text Styles */
 .one {
-  font-size: 4.5rem;
+  font-size: 2.5rem;
+}
+
+.one h1 {
+  font-size: 2.5rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .one > img {
